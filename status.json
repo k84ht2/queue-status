@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "lastIssued": 0,
   "active": 0,
   "max": 11,
   "remaining": 11,
   "current": 0,
-  "epoch": 18,
+  "epoch": 19,
   "publicOpen": false,
   "formPublic": false,
   "upcoming": [],
   "servedNumbers": [],
-  "updatedAt": "2026-05-28T20:53:30+09:00"
+  "updatedAt": "2026-05-28T23:25:30+09:00"
 }
