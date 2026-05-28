@@ -1,6 +1,14 @@
 {
-  "ok": true,
-  "source": "GAS test",
-  "date": "2026-05-28",
-  "updatedAt": "2026-05-28T20:45:30+09:00"
+  "date": "2026-05-27",
+  "lastIssued": 0,
+  "active": 0,
+  "max": 11,
+  "remaining": 11,
+  "current": 0,
+  "epoch": 18,
+  "publicOpen": false,
+  "formPublic": false,
+  "upcoming": [],
+  "servedNumbers": [],
+  "updatedAt": "2026-05-28T20:53:30+09:00"
 }
